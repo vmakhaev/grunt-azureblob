@@ -21,7 +21,7 @@
     "spa"
   ],
   "dependencies": {
-    "azure": ">= 0.7.2",
+    "azure": "git://github.com/codeparty/azure-sdk-for-node#master",
     "mime": "~1.2.9",
     "q": ">=0.9.3",
     "tmp": ">=0.0.18"
